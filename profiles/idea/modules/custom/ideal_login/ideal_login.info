@@ -1,0 +1,4 @@
+name = Ideal Login
+description = Implements 3rd party login
+core = 7.x
+package = openidaeL

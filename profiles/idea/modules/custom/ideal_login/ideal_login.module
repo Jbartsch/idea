@@ -1,0 +1,48 @@
+<?php
+
+/**
+ * Implements hook_menu().
+ */
+//function ideal_main_menu() {
+//  $items = array();
+//
+//  return $items;
+//}
+
+/**
+ * Implements hook_block_info().
+ */
+//function ideal_login_block_info() {
+//  $blocks = array();
+//  $blocks['category_list'] = array(
+//    'info' => t('Ideal: Category list for sidebar'),
+//  );
+//  $blocks['openideal_credits'] = array(
+//    'info' => t('OpenideaL credits'),
+//  );
+//  return $blocks;
+//}
+//
+//
+///**
+// * Implements hook_block_view().
+// */
+//function ideal_login_block_view($delta) {
+//  if (TRUE) {
+//    switch ($delta) {
+//      case 'category_list':
+//        $block = array(
+//          'subject' => t('Categories'),
+//          'content' => theme('ideal_category_list_block'),
+//        );
+//        break;
+//      case 'openideal_credits':
+//        $block = array(
+//          'subject' => '',
+//          'content' => theme('ideal_openideal_credits_block'),
+//        );
+//        break;
+//    }
+//    return $block;
+//  }
+//}
